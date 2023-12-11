@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D759152E-2D66-2D6F-D702-A705AA61A02D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Presenter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/IEventTrigger.cs" Line="76" Column="58" IsPinned="True" />
+      <File FileName="Assets/Scripts/ScaleInteraction.cs" Line="10" Column="35" />
+      <File FileName="Assets/Scripts/MoveInteraction.cs" Line="23" Column="31" />
+      <File FileName="Assets/Scripts/WorldView.cs" Line="54" Column="14" />
+      <File FileName="Assets/Scripts/Presenter.cs" Line="75" Column="55" />
+      <File FileName="Assets/Scripts/Model.cs" Line="8" Column="47" />
+      <File FileName="Assets/Scripts/Storage.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity Test" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Presenter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ad09f2a4-7ceb-4d12-9746-60a94d454042" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bismyc/Unity Test/Assets/Scripts/View.cs" relfile="Assets/Scripts/View.cs" line="69" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
