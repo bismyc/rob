@@ -6,7 +6,7 @@ The main architecture of choice is Model View Presenter. I find it very useful f
 
 I used the Unity UI (2D) to implement an interactive menu for moving and scaling 3d objects. I preferred it because of its auto-alignment features. The undo functionality was implented used stack. 
 
-![alt text](Demo.png)
+![alt text](robdemo.gif)
 
 
 
